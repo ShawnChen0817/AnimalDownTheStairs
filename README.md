@@ -1,8 +1,8 @@
 # Animal down the stairs
 `Description`
----
+***
 `Main`
----
+***
 #########start scene
 ![image](start.png)
 `Play`
@@ -14,3 +14,4 @@
 `Rank list`
 ---
 ![image](rank.png)
+---
