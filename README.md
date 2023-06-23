@@ -3,7 +3,7 @@
 `Main`
 ![image](start.png)
 `Play`
-![image](character move.png)
+![image](charactermove.png)
 `Store`
 ![image](store.png)
 `Rank list`
