@@ -2,7 +2,7 @@
 `Description`
 ***
 ## Main
-***
+遊戲開始畫面
 ![image](start.png)
 ## Play
 ***
