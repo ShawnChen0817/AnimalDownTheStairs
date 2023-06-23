@@ -14,6 +14,10 @@
 `fox`  
 <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/fox.png" width="300px">   
 `eagle`  
-<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/eagle.png" width="300px">    
+<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/eagle.png" width="300px">   
+`mouse`  
+<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/mouse.png" width="300px">   
+`frog`  
+<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/frog.png" width="300px">    
 ## Rank list
 評分排名表，前方顯示達到此分數的角色
