@@ -1,15 +1,15 @@
 # Animal down the stairs
 `Description`
 ***
-`Main`
+## Main
 ***
 ![image](start.png)
-`Play`
+## Play
 ***
 ![image](character_move.png)
-`Store`
+## Store
 ***
 ![image](store.png)
-`Rank list`
+## Rank list
 ***
 ![image](rank.png)
