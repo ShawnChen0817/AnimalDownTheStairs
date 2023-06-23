@@ -7,7 +7,7 @@
 ## Play
 遊玩操作: 
 以方向鍵"左右"進行角色移動
-
+![img](方向鍵.png)
 ![image](character_move.png)
 ## Store
 ***
