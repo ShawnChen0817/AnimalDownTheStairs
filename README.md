@@ -1,7 +1,7 @@
 # Animal down the stairs
 ## Description
 ## Main
-遊戲開始畫面
+遊戲開始畫面  
 <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/start.png" width="500px">
 ## Play
 遊玩操作: 
