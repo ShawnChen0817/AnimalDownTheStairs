@@ -1,5 +1,5 @@
 # Animal down the stairs
-`description`
+`Description`
 `Main`
 `Play`
 `Store`
