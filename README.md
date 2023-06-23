@@ -1,2 +1,6 @@
-# AnimalDownTheStairs
-Animal down the stairs
+# Animal down the stairs
+`Game description`
+`Main screen`
+`Game screen`
+`Store`
+`Rank list`
