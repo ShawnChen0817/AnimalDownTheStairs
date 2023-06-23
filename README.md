@@ -3,7 +3,7 @@
 `Main`
 ![image](Animal down the stairs img/start.png)
 `Play`
-![image](Animal down the stairs img/character move.png)
+![image](character move.png)
 `Store`
 ![image](Animal down the stairs img/store.png)
 `Rank list`
