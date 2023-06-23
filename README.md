@@ -1,6 +1,6 @@
 # Animal down the stairs
-`Game description`
-`Main screen`
-`Game screen`
+`description`
+`Main`
+`Play`
 `Store`
 `Rank list`
