@@ -1,6 +1,6 @@
 # Animal down the stairs
 `Description`
-`Main`
+# Main #
 ![image](start.png)
 `Play`
 ![image](character_move.png)
