@@ -2,6 +2,7 @@
 ## Description
 ## Main
 遊戲開始畫面
+![img](https://github.com/ShawnChen0817/ImgDataBase/blob/main/start.png#w80)
 ## Play
 遊玩操作: 
 方向鍵"左右"進行角色移動
