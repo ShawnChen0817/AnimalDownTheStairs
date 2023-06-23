@@ -7,7 +7,7 @@
 遊玩操作: 
 方向鍵"左右"進行角色移動  
 <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/%E6%96%B9%E5%90%91%E9%8D%B5.png" width="100px">     
-空白鍵進行"角色跳躍"
+空白鍵進行"角色跳躍"  
 <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/space.png" width="100px">  
 ## Store
 可進行角色切換，依據"角色敘述不同，代表角色擁有各自技能"
