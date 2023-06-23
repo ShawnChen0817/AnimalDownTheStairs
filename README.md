@@ -21,4 +21,4 @@
 <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/frog.png" width="300px">    
 ## Rank list
 評分排名表，前方顯示達到此分數的角色  
-<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/rank.png" width="300px">    
+<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/rank.png" width="500px">    
