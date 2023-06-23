@@ -10,8 +10,7 @@
 按下"空白鍵"進行角色跳躍   
 <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/space.png" width="100px">    
 #### 遊戲畫面:  
-score: 當前分數  
-high score: 最高分數  
+score: 當前分數、high score: 最高分數  
 <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/character_move.png" width="500px">       
 
 ## Store
