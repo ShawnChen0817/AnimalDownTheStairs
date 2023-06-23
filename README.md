@@ -1,7 +1,7 @@
 # Animal down the stairs
 `Description`
-![image](start.png)
 `Main`
+![image](start.png)
 `Play`
 `Store`
 `Rank list`
