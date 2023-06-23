@@ -17,7 +17,7 @@
 <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/character_move.png" width="500px">       
 
 ## Store
-#### 可進行角色切換，依據"角色敘述不同，代表角色擁有各自技能"
+##### 可進行角色切換，依據"角色敘述不同，代表角色擁有各自技能"
 `fox`  
 <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/fox.png" width="300px">   
 `eagle`  
