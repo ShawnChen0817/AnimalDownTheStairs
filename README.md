@@ -2,7 +2,7 @@
 ## Description
 ## Main
 遊戲開始畫面
-![img](https://github.com/ShawnChen0817/ImgDataBase/blob/main/start.png#w40)
+<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/start.png" width="100px">
 ## Play
 遊玩操作: 
 方向鍵"左右"進行角色移動
