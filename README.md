@@ -10,7 +10,8 @@
 按下"空白鍵"進行角色跳躍   
 <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/space.png" width="100px">    
 #### 遊戲畫面:  
-<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/character_move.png" width="500px">  
+<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/character_move.png" width="500px">       
+
 ## Store
 #### 可進行角色切換，依據"角色敘述不同，代表角色擁有各自技能"
 `fox`  
