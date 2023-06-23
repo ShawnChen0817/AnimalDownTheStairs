@@ -11,8 +11,7 @@
 <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/space.png" width="100px">    
 ## Store
 #### 可進行角色切換，依據"角色敘述不同，代表角色擁有各自技能"
-* fox
-<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/fox.png" width="300px">   
+<img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/fox.png" width="300px" "fox">   
 * eagle
 <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/eagle.png" width="300px">    
 ## Rank list
