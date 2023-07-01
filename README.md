@@ -29,3 +29,6 @@
 ## Rank list
 ##### 評分排名表，頭像為得到此分數的遊戲角色  
 <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/rank.png" width="500px">    
+
+## 遊戲操作
+[詳細操作流程](https://drive.google.com/file/d/1a-0lHYZQNDQ-1UiWImdllZ_b8cFOqL91/view?usp=drive_link)
