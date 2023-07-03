@@ -1,7 +1,7 @@
 # Animal down the stairs
 ## Description  
 > 遊戲概念以童年遊戲"小朋友下樓梯"為發想。  
-> 感受角色切換的樣式，*更是於遊玩時搭配各自角色的技能滿足玩家的遊戲體驗*，體驗與"下樓梯"遊戲不同的刺激與快感
+> 感受角色切換的樣式，*更是於遊玩時搭配各自角色的技能滿足玩家的遊戲體驗*，感受與"下樓梯"遊戲不同的刺激與快感
 ## Main
 ##### 遊戲開始畫面  
 <img src="https://github.com/ShawnChen0817/ImgDataBase/blob/main/start.png" width="500px">
